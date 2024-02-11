@@ -38,5 +38,7 @@ This project focuses on leveraging Convolutional Neural Networks (CNN) to classi
 ## Results:
 
 -   Achieved high accuracy in classifying potato diseases.
--   Provided visualization of predictions and compared results with a baseline model.
+- project's comprehensive visualizations showcase the training accuracy, validation accuracy, and training loss,validation loss providing a clear overview of the model's learning  
+
+
 
